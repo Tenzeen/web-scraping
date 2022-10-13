@@ -9,6 +9,10 @@
 
 4. Include a markdown file in the repo which includes instructions (e.g., what are the required python packages to run this, your approach for scrapping the data - the div/classes/css tags you found to extract the information)
 
+## Websites Used:
+1. https://gizmodo.com/tech/news
+2. https://www.everydayhealth.com/news/
+
 ## Approach for webscraping
 1. *Install required packages:*
     - import requests
