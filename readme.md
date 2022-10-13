@@ -10,18 +10,18 @@
 4. Include a markdown file in the repo which includes instructions (e.g., what are the required python packages to run this, your approach for scrapping the data - the div/classes/css tags you found to extract the information)
 
 ## Approach for webscraping
-1. *Install required packages:
+1. *Install required packages:*
     - import requests
     - from bs4 import BeautifulSoup
     - import pandas as pd
 
-2. *Look for websites that can be scraped.
+2. *Look for websites that can be scraped.*
     - Websites with simple HTML format
     - Avoid websites that block you from scraping
 
-3. *Using python loops, gather key information such as article titles, authors, descriptions, and dates.
+3. *Using python loops, gather key information such as article titles, authors, descriptions, and dates.*
 
-4. *Save all the inforamtion gathered to a dataframe, and then into a csv file.
+4. *Save all the inforamtion gathered to a dataframe, and then into a csv file.*
 
 ## Tags used for scraping
 1. ### gizmodo.py
